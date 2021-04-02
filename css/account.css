@@ -1,0 +1,38 @@
+body {
+  background-image: url(../media/images/background_account.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  object-fit: cover;
+}
+
+.account-box {
+  height: 80vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #000000;
+}
+
+.account-box-form {
+  width: 380px;
+  padding: 30px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  background: #fff;
+}
+
+.account-box-title {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.account-box-subtext {
+  font-size: 12px;
+  display: block;
+  margin: 5px 0;
+}
+
+footer {
+  color: #000000;
+}
