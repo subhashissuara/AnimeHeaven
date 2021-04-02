@@ -18,10 +18,10 @@ Created by Subhashis Suara & Avinash Kumar Tiu.
 
 # Features
 
-- Search keywords to fetch results from database based on name or movie genre.
-- Registeration & login page.
-- Account page, to change account details.
-- Admin page, to add videos to database from the website.
-- Homepage with carousel of upcoming movies, rows of movies based on genre dynamically fetched from database.
+- Search keywords to fetch results from database based on movie name or movie genre.
+- Registration & login webpage.
+- Account webpage, to change account details.
+- Admin webpage, to add videos to the database (hidden from normal user accounts).
+- Homepage with carousel of upcoming movies, rows of movies based on genre (data is dynamically fetched from database).
 - Session detection to avoid unauthorized access.
 - Full page HTML5 video player that plays movies based on id given in url query.
