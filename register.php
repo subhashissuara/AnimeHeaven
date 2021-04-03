@@ -72,10 +72,11 @@
     </div>
     <!-- Content Starts -->
     <!-- Footer Start -->
-    <footer>
-      <img src="./media/images/ah_logo.png">
-      <h3> &copy; Made by <a href="https://www.subhashissuara.com/" target="_blank">Subhashis Suara</a> and <a href="#" target="_blank">Avinash Kumar Tiu</a></h3>
-    </footer>
+      <footer>
+        <img src="./media/images/ah_logo.png">
+        <h3> &copy; Made by <a href="https://www.subhashissuara.com/" target="_blank">Subhashis Suara</a> and <a href="https://github.com/AvinashKumarTiu" target="_blank">Avinash Kumar Tiu</a></h3>
+      </footer>
+    </div>
     <!-- Footer End -->
 </body>
 </html>
