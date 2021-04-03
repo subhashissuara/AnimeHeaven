@@ -25,3 +25,42 @@ Created by Subhashis Suara & Avinash Kumar Tiu.
 - Homepage with carousel of upcoming movies, rows of movies based on genre (data is dynamically fetched from database).
 - Session detection to avoid unauthorized access.
 - Full page HTML5 video player that plays movies based on id given in url query.
+
+# Screenshots
+
+## Login Page
+
+![Login Page](./media/screenshots/ah_login_ss.jpg)
+
+## Registration Page
+
+![Registration Page](./media/screenshots/ah_register_ss.jpg)
+
+## Home Page
+
+![Home Page 1](./media/screenshots/ah_homepage_ss_1.jpg)
+![Home Page 2](./media/screenshots/ah_homepage_ss_2.jpg)
+![Home Page 3](./media/screenshots/ah_homepage_ss_3.jpg)
+![Home Page 4](./media/screenshots/ah_homepage_ss_4.jpg)
+
+## Search Page (Name)
+
+![Search Page (Name)](./media/screenshots/ah_search_name_ss.jpg)
+
+## Search Page (Genre)
+
+![Search Page (Genre)](./media/screenshots/ah_search_genre_ss.jpg)
+
+## Admin Page
+
+![Admin Page](./media/screenshots/ah_admin_ss.jpg)
+
+## Account Page
+
+![Account Page](./media/screenshots/ah_admin_account_ss.jpg)
+
+## User Account
+
+![User Account](./media/screenshots/ah_user_account_ss.jpg)
+
+**Note:** The above screenshot is from a regular user account and there is no link or access to the admin page.
