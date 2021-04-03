@@ -4,6 +4,16 @@ An anime streaming website made using HTML, CSS, JavaScript, PHP, MySQL.
 
 Created by Subhashis Suara & Avinash Kumar Tiu.
 
+# Features
+
+- Search keywords to fetch results from database based on movie name or movie genre.
+- Registration & login page.
+- Account page, to change account details.
+- Admin page, to add videos to the database (hidden from normal user accounts).
+- Homepage with carousel of upcoming movies, rows of movies based on genre (data is dynamically fetched from database).
+- Session detection to avoid unauthorized access.
+- Full page HTML5 video player that plays movies based on id given in url query.
+
 # How to Run
 
 1. Install WAMP server.
@@ -15,16 +25,6 @@ Created by Subhashis Suara & Avinash Kumar Tiu.
 4. Place the media accordingly in the project or import it from `Admin` page in the website.
 5. Import `animeheaven.sql` in phpMyAdmin.
 6. Enjoy!
-
-# Features
-
-- Search keywords to fetch results from database based on movie name or movie genre.
-- Registration & login page.
-- Account page, to change account details.
-- Admin page, to add videos to the database (hidden from normal user accounts).
-- Homepage with carousel of upcoming movies, rows of movies based on genre (data is dynamically fetched from database).
-- Session detection to avoid unauthorized access.
-- Full page HTML5 video player that plays movies based on id given in url query.
 
 # Screenshots
 
